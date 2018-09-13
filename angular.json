@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@ngx-kit/sula/themes/main.css",
               "src/styles.css"
             ],
             "scripts": []
